@@ -1,0 +1,24 @@
+
+Bill No.:16258849
+-------------------------------------------
+Name: Apple Qty: 2 Price:4362
+Name: 7 Qty: 22 Price:259
+Name: Orange Qty: 12 Price:0
+Name: Strawberry Qty: 121 Price:0
+Name: Dengle Qty: 12 Price:0
+Name:  Qty: 21 Price:0
+Name:  Qty: 5.60519e-45 Price:0
+Name:  Qty: 6.65617e-43 Price:0
+Name:  Qty: 3.62936e-43 Price:0
+Name: a Qty: 6.11246e-42 Price:0
+Name:  Qty: 3.62936e-43 Price:0
+Name:  Qty: 0 Price:0
+--------------------------------------------------------
+
+Bill No.:16258850
+-------------------------------------------
+Name: Apple Qty: 21.21 Price:973
+Name: Strawberry Qty: 23 Price:115
+Name: Orange Qty: 45 Price:540
+Name: Bananas Qty: 21 Price:945
+--------------------------------------------------------
